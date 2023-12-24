@@ -1,0 +1,5 @@
+// 1.20.1	2023-11-20T17:09:37.4881601	Global Loot Modifiers : northstar
+217ad3a9c5a636363022cbedb48dc7cf67992a3c data/forge/loot_modifiers/global_loot_modifiers.json
+d3b8346f9e4f06e76ba7c82391c183af9b318769 data/northstar/loot_modifiers/jade_dust_from_grass.json
+e900d667f6e23b5894c452b619e1b9c1286297e4 data/northstar/loot_modifiers/jade_dust_from_zombie.json
+a04d190bc4ff9c3b2f994a41d3ad54e07caa6ec5 data/northstar/loot_modifiers/metal_detector_from_jungle_temples.json

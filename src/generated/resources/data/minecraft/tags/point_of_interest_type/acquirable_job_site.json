@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "northstar:jade_poi",
+      "required": false
+    },
+    {
+      "id": "northstar:ender_obsidian_poi",
+      "required": false
+    },
+    {
+      "id": "northstar:infused_emerald_poi",
+      "required": false
+    }
+  ]
+}

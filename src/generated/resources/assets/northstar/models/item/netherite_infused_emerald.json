@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "northstar:item/netherite_infused_emerald"
+  }
+}

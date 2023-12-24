@@ -1,0 +1,63 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.lockedtrader.idle": {
+			"animation_length": 2,
+			"bones": {
+				"head": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0.5, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0.5, 0]
+						}
+					}
+				},
+				"arms": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0.5, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0.5, 0]
+						}
+					}
+				},
+				"mirrored": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0.5, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0.5, 0]
+						}
+					}
+				},
+				"bodywear": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0.5, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0.5, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

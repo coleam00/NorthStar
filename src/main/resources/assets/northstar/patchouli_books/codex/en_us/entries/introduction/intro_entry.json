@@ -1,0 +1,11 @@
+{
+  "name": "Intro Entry",
+  "icon": "minecraft:writable_book",
+  "category": "northstar:introduction_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

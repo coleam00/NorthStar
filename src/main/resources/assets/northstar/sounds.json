@@ -1,0 +1,8 @@
+{
+  "metal_detector_found_ore": {
+    "subtitles": "sounds.northstar.metal_detector_found_ore",
+    "sounds": [
+      "northstar:metal_detector_found_ore"
+    ]
+  }
+}

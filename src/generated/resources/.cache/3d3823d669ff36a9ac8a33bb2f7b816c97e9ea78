@@ -1,0 +1,5 @@
+// 1.20.1	2023-12-21T21:14:31.269387	Tags for minecraft:block mod id northstar
+a7a2bea06ddaee8aa070b1b1bc4ea0b9584ef27a data/minecraft/tags/blocks/mineable/pickaxe.json
+a7a2bea06ddaee8aa070b1b1bc4ea0b9584ef27a data/minecraft/tags/blocks/needs_iron_tool.json
+55abeab28f0ceb8cf4f86c30827942ab30547985 data/northstar/tags/blocks/northstar_ores.json
+5de301d08d6056629f85fcb8215f1443880c6dc5 data/northstar/tags/blocks/northstar_portal_blocks.json

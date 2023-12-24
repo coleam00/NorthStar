@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "northstar:jade"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " II",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "northstar:jade_hoe"
+  },
+  "show_notification": true
+}

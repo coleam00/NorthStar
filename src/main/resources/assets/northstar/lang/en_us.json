@@ -1,0 +1,54 @@
+{
+  "item.northstar.jade": "Jade",
+  "item.northstar.jade_dust": "Jade Dust",
+  "item.northstar.village_eye": "Village Eye",
+  "item.northstar.mineshaft_eye": "Mineshaft Eye",
+  "item.northstar.nether_fortress_eye": "Nether Fortress Eye",
+  "item.northstar.bastion_eye": "Bastion Remnant Eye",
+  "item.northstar.ocean_monument_eye": "Ocean Monument Eye",
+  "item.northstar.ancient_city_eye": "Ancient City Eye",
+  "item.northstar.end_city_eye": "End City Eye",
+  "item.northstar.jade_eye": "Jade Eye",
+  "item.northstar.home_pearl": "Home Pearl",
+  "item.northstar.copper_infused_emerald": "Copper Infused Emerald",
+  "item.northstar.lapis_infused_emerald": "Lapis Infused Emerald",
+  "item.northstar.iron_infused_emerald": "Iron Infused Emerald",
+  "item.northstar.gold_infused_emerald": "Gold Infused Emerald",
+  "item.northstar.redstone_infused_emerald": "Redstone Infused Emerald",
+  "item.northstar.diamond_infused_emerald": "Diamond Infused Emerald",
+  "item.northstar.netherite_infused_emerald": "Netherite Infused Emerald",
+  "item.northstar.codex": "Codex",
+  "item.northstar.jadehoarder_spawn_egg": "Jade Hoarder Spawn Egg",
+  "item.northstar.murphy_spawn_egg": "Murphy Spawn Egg",
+  "item.northstar.lockedtrader_spawn_egg": "Locked Trader Spawn Egg",
+
+  "item.northstar.metal_detector": "Northstar Metal Detector",
+
+  "item.northstar.jade_sword": "Jade Sword",
+  "item.northstar.jade_pickaxe": "Jade Pickaxe",
+  "item.northstar.jade_axe": "Jade Axe",
+  "item.northstar.jade_shovel": "Jade Shovel",
+  "item.northstar.jade_hoe": "Jade Hoe",
+
+  "item.northstar.jade_helmet": "Jade Helmet",
+  "item.northstar.jade_chestplate": "Jade Chestplate",
+  "item.northstar.jade_leggings": "Jade Leggings",
+  "item.northstar.jade_boots": "Jade Boots",
+
+  "block.northstar.jade_block": "Block of Jade",
+  "block.northstar.jade_ore": "Jade Ore",
+  "block.northstar.locked": "Locked",
+  "block.northstar.jade_portal_block": "Jade Portal Block",
+  "block.northstar.infused_emerald_block": "Infused Emerald Block",
+  "block.northstar.ender_obsidian": "Ender Obsidian",
+
+  "tooltip.northstar.metal_detector.tooltip": "Finds Northstar ores underground!",
+
+  "entity.minecraft.villager.northstar.jademaster": "Jade Master",
+  "entity.minecraft.villager.northstar.ender_trader": "Ender Trader",
+  "entity.minecraft.villager.northstar.mystic_mercenary": "Mystic Mercenary",
+
+  "sounds.northstar.metal_detector_found_ore": "Metal Detector Jingle",
+
+  "creative.northstar_tab": "North Star"
+}
